@@ -15,6 +15,10 @@ Lecturers: Alexandre Allauzen and Florian Le Bronnec
 - Only one notebook per group.
 - You are highly encourages to work on it independently, then discuss and mutualize your answers.
 
+## Homework 2 Word2Vec
+- Subject in `hw/hw2/`
+- Submission deadline: **21 mars 2025, 23h59**.
+- [Submission link](https://forms.gle/AK1BncS4cwvTzAUU9)
 
 
 
