@@ -20,5 +20,9 @@ Lecturers: Alexandre Allauzen and Florian Le Bronnec
 - Submission deadline: **21 mars 2025, 23h59**.
 - [Submission link](https://forms.gle/AK1BncS4cwvTzAUU9)
 
+## Homework 2
+- Subject in `hw/hw2/hw2_word2vec.pdf`
+- Submission deadline: **07 March 2025, 23h59**.
+- [Submission link](https://forms.gle/FZxNFpXuyR6GDUh8A)
 
 
